@@ -1,4 +1,5 @@
 import 'package:equatable/equatable.dart';
+import 'package:todo_gk/features/todo/data/models/todo_model.dart';
 
 class TodoEntity extends Equatable {
   final String title;
@@ -15,5 +16,8 @@ class TodoEntity extends Equatable {
       const TodoEntity(title: "Makan", id: "", description: "Makan"),
       const TodoEntity(title: "Minum", id: "", description: "Minum apaan")
     ];
+  }
+  TodoModel toModel(){
+    return TodoModel(title: title, id: id, description: description);
   }
 }

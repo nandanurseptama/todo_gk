@@ -45,6 +45,11 @@ abstract class Usecase<Params, Result> {
 
   /// an abstraction of usecase caller
   Future<Result> calling(Params params);
+
+
+  String get generateUuid{
+    return _uuidGenerator();
+  }
 }
 
 class NoUsecaseParams extends Equatable {
