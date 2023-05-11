@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "365455687800",
+    "firebase_url": "https://tourguide-b70c0.firebaseio.com",
+    "project_id": "tourguide-b70c0",
+    "storage_bucket": "tourguide-b70c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365455687800:android:2d508b450072138a",
+        "android_client_info": {
+          "package_name": "com.example.miracle.tourguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365455687800-l35j5n7k671jjgm7ma6fo7d14pjklmom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdo6aSfzcveYrNHOIQoPdO6oLhVa84m3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365455687800-0k15fd0u8aqnu3thf76m39jrkvcdqm3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365455687800:android:62a2642750641d83716d8d",
+        "android_client_info": {
+          "package_name": "com.example.todo_gk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365455687800-l35j5n7k671jjgm7ma6fo7d14pjklmom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdo6aSfzcveYrNHOIQoPdO6oLhVa84m3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365455687800-0k15fd0u8aqnu3thf76m39jrkvcdqm3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365455687800:android:29e316290c773101716d8d",
+        "android_client_info": {
+          "package_name": "com.nomadev.mousebee.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365455687800-ckqcfihjpncphiar8ks337hihmmec6hh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nomadev.mousebee.android",
+            "certificate_hash": "62d11319b46032ed9bc5a47a2c11750ae4c86c92"
+          }
+        },
+        {
+          "client_id": "365455687800-l35j5n7k671jjgm7ma6fo7d14pjklmom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdo6aSfzcveYrNHOIQoPdO6oLhVa84m3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365455687800-0k15fd0u8aqnu3thf76m39jrkvcdqm3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
